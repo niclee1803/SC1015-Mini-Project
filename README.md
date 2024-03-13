@@ -1,7 +1,7 @@
 # SC1015-Mini-Project
 What pre-exisiting conditions increases a patient's vulnerability to mortality from Covid-19
 
-Our notebook: notebook.ipynb
+Our notebook: notebook.ipynb 
 Our dataset: SC1015-Mini-Project/Dataset/Covid Data.csv  (Link: https://www.kaggle.com/datasets/meirnizri/covid19-dataset)
 
 ## Getting Started
