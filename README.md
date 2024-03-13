@@ -29,7 +29,7 @@ Our dataset: COVID-19 Dataset: COVID-19 patient's symptoms, status, and medical 
     git checkout -b <your_branch_name>
     ```
 
-3. Edit the notebook
+3. Edit the notebook using Jupyter Notebook and save checkpoint.
 
 4. Commit your changes to the branch
 
