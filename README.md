@@ -40,7 +40,7 @@ Our dataset: COVID-19 Dataset: COVID-19 patient's symptoms, status, and medical 
 5. Push the branch
 
    ```bash
-   git push --set-upstream origin customer_data_insights
+   git push --set-upstream origin <your_branch_name>
    ```
 
 6. Go to GitHub Project page -> Pull requests tab -> click “New pull request”.
