@@ -1,9 +1,9 @@
 # SC1015-Mini-Project
-What pre-exisiting conditions increases a patient's vulnerability to mortality from Covid-19
+What factors allow us to predict if a patient has heart disease?
 
-Our dataset: COVID-19 Dataset: COVID-19 patient's symptoms, status, and medical history.  
+Our dataset: Heart Failure Prediction Dataset: 11 clinical features for predicting heart disease events.
 
-(Link: https://www.kaggle.com/datasets/meirnizri/covid19-dataset)
+(Link: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ## Getting Started
 
