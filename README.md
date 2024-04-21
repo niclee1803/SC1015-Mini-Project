@@ -1,5 +1,5 @@
 # SC1015-Mini-Project
-What factors allow us to predict if a patient has heart disease?
+What key clinical characteristics can help forecast the likelihood of a patient developing heart disease?
 
 Our dataset: Heart Failure Prediction Dataset: 11 clinical features for predicting heart disease events.
 
