@@ -1,4 +1,4 @@
-# Key clinical characteristics that can help forecast the likelihood of heart disease
+# Forecasting the Likelihood of Heart Disease
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) where we investigate the key clinical features that can help forecast the likelihood of heart disease.
