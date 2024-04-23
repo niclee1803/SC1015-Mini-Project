@@ -24,7 +24,7 @@ We have included the [file](https://github.com/niclee1803/SC1015-Mini-Project/bl
 ## Conclusion
 
 
-## What did we learn from this project?
+## What we learnt from this project
 
 
 ## References
