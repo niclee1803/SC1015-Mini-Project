@@ -5,8 +5,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Dataset used
 Our dataset: Heart Failure Prediction Dataset by fedesoriano on Kaggle.\
-(Link: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) \ 
-It conntains 11 clinical features for predicting heart disease events.\
+Link: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction \ 
+It contains 11 clinical features for predicting heart disease events.\
 We have included the file (heart.csv) in the Dataset folder.
 
 ## Contributors
