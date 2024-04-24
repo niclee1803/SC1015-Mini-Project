@@ -42,13 +42,13 @@ We decided to work on using machine learning models to identify the key clinical
 * Among the KNN Classifier models that used individual top 3 most correlated categorical predictors, the KNN Classifier model that only used **Chest Pain Type** performed the best, with the highest TPR on test data.
 
 ## What we learnt from this project
-* chi-squared testing to find correlation between categorical variables
+* Chi-squared testing to find correlation between categorical variables
 * K-Nearest Neighbours classification model
-* presenting our findings and insights effectively through visualisations, summaries and presentations
+* Presenting our findings and insights effectively through visualisations, summaries and presentations
 
 ## What can be improved
-* using models that consider combined data (both categorical and numerical)
-* improve models by finding ways to increase TPR and reduce FNR
+* Using models that consider combined data (both categorical and numerical)
+* Improve models by finding ways to increase TPR and reduce FNR
 
 ## References
 * World Health Organization, “Cardiovascular Diseases,” World Health Organization, 2023. https://www.who.int/health-topics/cardiovascular-diseases#tab=tab_1‌    
