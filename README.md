@@ -31,20 +31,18 @@ We decided to work on using machine learning models to identify the key clinical
 
 
 ## What we learnt from this project
-We had to research on and pick up new concepts such as the chi-squared test to find correlation between categorical variables. The K-Nearest Classifier model and boosting algorithms such as adaboost to improve our machine learning models was something new we picked up as well.    
-    
-With this being our first data science project, we also learnt how to present our findings and insights effectively through visualisations, summaries and presentations.   
+* chi-squared testing to find correlation between categorical variables
+* K-Nearest Neighbours classification model
+* presenting our findings and insights effectively through visualisations, summaries and presentations
 
+## What can be improved
+* using models that consider combined data (both categorical and numerical)
+* improve models by finding ways to increase TPR and reduce FNR
 
 ## References
-World Health Organization, “Cardiovascular Diseases,” World Health Organization, 2023. https://www.who.int/health-topics/cardiovascular-diseases#tab=tab_1‌    
-
-“Heart Disease Statistics | Singapore Heart Foundation,” www.myheart.org.sg. https://www.myheart.org.sg/health/heart-disease-statistics/#:~:text=Singapore%20Statistics    
-    
-“Diabetes testing,” Centers for Disease Control and Prevention, Feb. 28, 2023. https://www.cdc.gov/diabetes/basics/getting-tested.html#:~:text=A%20fasting%20blood%20sugar%20level,higher%20indicates%20you%20have%20diabetes.    
-    
-“ST-segment changes with exercise stress | SMJ.” http://www.smj.org.sg/article/st-segment-changes-exercise-stress#ref9    
-    
-D. Mindrila, P. Balentyne, and Moore, D. S., Notz, W. I, & Flinger, M. A., “The Chi Square Test,” W. H. Freeman and Company, book-chapter, 2013. [Online]. Available: https://www.westga.edu/academics/research/vrc/assets/docs/ChiSquareTest_LectureNotes.pdf    
-    
-A. Sharma, “Cross Validation in Machine Learning,” GeeksforGeeks, Nov. 21, 2017. https://www.geeksforgeeks.org/cross-validation-machine-learning/ ‌
+* World Health Organization, “Cardiovascular Diseases,” World Health Organization, 2023. https://www.who.int/health-topics/cardiovascular-diseases#tab=tab_1‌    
+* “Heart Disease Statistics | Singapore Heart Foundation,” www.myheart.org.sg. https://www.myheart.org.sg/health/heart-disease-statistics/#:~:text=Singapore%20Statistics    
+* “Diabetes testing,” Centers for Disease Control and Prevention, Feb. 28, 2023. https://www.cdc.gov/diabetes/basics/getting-tested.html#:~:text=A%20fasting%20blood%20sugar%20level,higher%20indicates%20you%20have%20diabetes.      
+* “ST-segment changes with exercise stress | SMJ.” http://www.smj.org.sg/article/st-segment-changes-exercise-stress#ref9    
+* D. Mindrila, P. Balentyne, and Moore, D. S., Notz, W. I, & Flinger, M. A., “The Chi Square Test,” W. H. Freeman and Company, book-chapter, 2013. [Online]. Available: https://www.westga.edu/academics/research/vrc/assets/docs/ChiSquareTest_LectureNotes.pdf    
+* A. Sharma, “Cross Validation in Machine Learning,” GeeksforGeeks, Nov. 21, 2017. https://www.geeksforgeeks.org/cross-validation-machine-learning/ ‌
