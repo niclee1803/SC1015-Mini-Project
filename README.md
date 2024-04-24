@@ -31,6 +31,9 @@ We decided to work on using machine learning models to identify the key clinical
 
 
 ## What we learnt from this project
+We had to research on and pick up new concepts such as the chi-squared test to find correlation between categorical variables. The K-Nearest Classifier model and boosting algorithms such as adaboost to improve our machine learning models was something new we picked up as well.    
+    
+With this being our first data science project, we also learnt how to present our findings and insights effectively through visualisations, summaries and presentations.   
 
 
 ## References
