@@ -18,7 +18,8 @@ We have included the [file](https://github.com/niclee1803/SC1015-Mini-Project/bl
 
 ## Problem Definition
 According to the World Health Organisation, cardiovascular diseases are the leading cause of death globally, claiming an estimated 17.9 million lives each year.    
-According to the Singapore Heart Foundation, in Singapore alone, 23 people die from cardiovascular diseases every day.
+    
+According to the Singapore Heart Foundation, in Singapore alone, 23 people die from cardiovascular diseases every day.     
    
 From these statistics, we can see that there is an urgent need for early detection and management of CVDs, especially for individuals at high risk due to factors like hypertension or diabetes.    
     
