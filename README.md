@@ -28,7 +28,11 @@ We decided to work on using machine learning models to identify the key clinical
 
 
 ## Conclusion
-
+* Both Decision Tree Classifier and KNN Classifier performed well in predicting heart disease with Train/Test accuracies of 85.46%/83.47% and 87.46%/86.41% respectively.
+* KNN Classifier performed slightly better than Decision Tree Classifier in predicting heart disease.
+* From Decision Tree Classifier model that uses both categorical and numerical predictors, slope of the peak exercise ST segment, serum cholestrol levels and maximum heart rate are the top 3 clinical factors in predicting heart disease.
+* From Decision Tree Classifier model that uses only numerical predictors, OldPeak (ST depression caused by activity in comparison to rest), maximum heart rate and serum cholestrol levels are the top 3 numerical clinical factors in predicting heart disease.
+* 
 
 ## What we learnt from this project
 * chi-squared testing to find correlation between categorical variables
