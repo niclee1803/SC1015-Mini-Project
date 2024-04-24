@@ -11,7 +11,7 @@ We have included the [file](https://github.com/niclee1803/SC1015-Mini-Project/bl
 ## Contributors
 * @niclee1803 (Nichlos) - Exploratory Data Analysis
 * @Skyphius88 (Trevyen) - Exploratory Data Analysis, Decision Tree Classifier Model
-* @marcussoo (Marcus) - K Nearest Neighbours Classifier Model
+* @marcussoo (Marcus) - K Nearest Neighbours Classifier Model, Exploratory Data Analysis
 
 ## Problem Definition
 According to the WHO, cardiovascular diseases are the leading cause of death globally, claiming an estimated 17.9 million lives each year.    
