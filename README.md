@@ -2,6 +2,9 @@
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) where we investigate the key clinical features that can help forecast the likelihood of heart disease.
+Please view the notebooks in order from:    
+1. [Data Exploration and Visualisation](https://github.com/niclee1803/SC1015-Mini-Project/blob/main/Data%20Exploration%20and%20Visualisation.ipynb)
+2. [Models](https://github.com/niclee1803/SC1015-Mini-Project/blob/main/Models.ipynb)
 
 ## Dataset used
 Our dataset: [Heart Failure Prediction Dataset by fedesoriano on Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)  
