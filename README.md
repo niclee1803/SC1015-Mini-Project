@@ -37,8 +37,8 @@ We decided to work on using machine learning models to identify the key clinical
 * Among the numerical predictors, **OldPeak (ST depression caused by activity in comparison to rest)** has the strongest positive correlation to the response variable, while **maximum heart rate** has the strongest inverse correlation to the response variable.
 * From Decision Tree Classifier model that uses both categorical and numerical predictors, **slope of the peak exercise ST segment**, **serum cholestrol levels** and **maximum heart rate** are the top 3 clinical factors in predicting heart disease.
 * From Decision Tree Classifier model that uses only numerical predictors, **OldPeak (ST depression caused by activity in comparison to rest)**, **maximum heart rate** and **serum cholestrol levels** are the top 3 numerical clinical factors in predicting heart disease.
-* From the chi-squared test, the top 3 categorical predictors with the highest correlation to the response variable are **slope of peak exercise ST segment**, **chest pain type** and **presence of exercised-induced angina**.
-* A KNN Classifier model that uses all categorical predictors performed the best, compared to KNN Classifier models that only used the combined top 3 most correlated categorical predictors to the response and individual top 3 most correlated categorical predictors.
+* From the chi-squared test, the top 3 categorical predictors with the highest correlation to the response variable are **slope of peak exercise ST segment**, **chest pain type** and **presence of exercise-induced angina**.
+* A KNN Classifier model that uses all categorical predictors performed the best, compared to KNN Classifier models that only used the combined top 3 most correlated categorical predictors and individual top 3 most correlated categorical predictors.
 * Among the KNN Classifier models that used individual top 3 most correlated categorical predictors, the KNN Classifier model that only used **Chest Pain Type** performed the best, with the highest TPR on test data.
 
 ## What we learnt from this project
